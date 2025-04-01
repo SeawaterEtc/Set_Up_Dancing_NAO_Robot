@@ -5,11 +5,12 @@
 Install the following application: 
 |Source |Application|
 |---|---|
-| https://www.aldebaran.com/en/support/nao-6/downloads-softwares |![alt text](image.png)|
 | https://www.aldebaran.com/en/support/nao-6/downloads-softwares|![alt text](image-1.png) *Newer version*|
 
 
 ## Step 2 Connect NAO with a computer
+
+By click on the NAO chest button, there is an IP. Use it in a browser to connect the wifi to the robot. 
 
 Follow the instructions in the setup section of this site: [Follow the Getting Started Wizard | NAO 6 | Aldebaran](https://www.aldebaran.com/en/support/nao-6/4-follow-getting-started-wizard#article) 
 
